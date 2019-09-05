@@ -11,7 +11,7 @@ namespace Calculator
             float c = a + b;
             Console.WriteLine(c);
             Console.ReadKey(); */
-            //Nice Calculator.
+            //Nice Design
             // Declare variables and then initialize to zero
             double num1 = 0; double num2 = 0; double answer;
 
